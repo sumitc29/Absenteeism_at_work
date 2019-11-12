@@ -10,3 +10,4 @@ Project contains all the following files
 - Absenteeism at work.docx : Explaination of code and methods
  
 ### Live application can be reached at [here]() 
+### If graphs are not visible please refer colab Notebook at [here](https://colab.research.google.com/drive/1UoFW6nqcDzeb6UM5mTuKPvbAhJ5UAjb1#scrollTo=5tmV647AQi4g)
