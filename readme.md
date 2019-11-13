@@ -4,10 +4,10 @@ An machine learning project to be used in real life application for predicting n
 
 ## Files
 Project contains all the following files
-- Absenteeism_at_work.ipnyb : This is an source code for development containing all the Sourcecode for EDA, Plots, Data Pre-processing, Model training and model evaluations 
+- Absenteeism_at_work.ipnyb : This is an source code for development containing all the Sourcecode for EDA, Plots, Data Pre-processing, Model training and model evaluations along with deployment codes and getting production code.
 - App.py : Containd code to be deployed over server to be used by user
 - requirements.txt : contain all the required packages to be used for deployment
 - Absenteeism at work.docx : Explaination of code and methods
  
-### Live application can be reached at [here]() 
+### Live application can be reached at [here](https://absenteeism-at-work.herokuapp.com/) 
 ### If graphs are not visible please refer colab Notebook at [here](https://colab.research.google.com/drive/1UoFW6nqcDzeb6UM5mTuKPvbAhJ5UAjb1#scrollTo=5tmV647AQi4g)
